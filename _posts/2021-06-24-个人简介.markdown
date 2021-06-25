@@ -1,12 +1,10 @@
 ---
 
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "简历!"
 date:   2021-06-24 19:03:55 -0700
 categories: jekyll update
 ---
-<h1>简介</h1>
-
 <h3>教育经历</h3>
 
 ​        在本科与博士期间系统的学习了计算机科学与技术和计算机应用技术专业的相关知识，分别获得理学学士学位和工学博士学位
@@ -50,4 +48,5 @@ categories: jekyll update
  <li>2018.11-2020.010，中国博士后科学基金会，面上资助（二等），面向高速加工的数控系统刀具路径动态平滑原理研究。</li>
 <li>2017.07-2020.06，山东省高等学校科研计划，“基于非切削刀具轨迹优化的数控系统高速运动控制技术的研究与实现”</li>
 </ul>
-研究工作同时受到国家科技重大专项，国家重点基础研究发展计划、等项目的资助。
+​       研究工作同时受到国家科技重大专项，国家重点基础研究发展计划、 NSERC- Pratt & Whitney Canada – Sandvik Coromant Industrial Research Chair Grant to The University of British Columbia 等项目的资助。
+
