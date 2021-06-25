@@ -18,10 +18,5 @@ categories: 班主任
 <li>姓名 籍贯 </li>
 </ul>
 
-![my alternate text](/assets/main.jpg);
-![my alternate text](../assets/main.jpg);
-![my alternate text](.../assets/main.jpg);
-![my alternate text](./assets/main.jpg);
-![url baseurl ](baseurl/assets/main.jpg);
 
-![my alternate text](https://andyandssj.github.io/lab4/assets/main.jpg);
+![my alternate text](https://andyandssj.github.io/lab4/assets/heying.jpg);
