@@ -23,3 +23,5 @@ categories: 班主任
 ![my alternate text](.../assets/main.jpg);
 ![my alternate text](./assets/main.jpg);
 ![my alternate text](url/baseurl/assets/main.jpg);
+
+![my alternate text](https://andyandssj.github.io/lab4/assets/main.jpg);
