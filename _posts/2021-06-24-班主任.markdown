@@ -11,12 +11,5 @@ categories: 班主任
 
 ​       2021届
 
-<h3>同学名录</h3>
-
-<ul>
-<li>姓名 籍贯 </li>
-<li>姓名 籍贯 </li>
-</ul>
-
 
 ![my alternate text](https://andyandssj.github.io/lab4/assets/heying.jpg)
