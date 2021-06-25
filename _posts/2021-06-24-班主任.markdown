@@ -19,4 +19,4 @@ categories: 班主任
 </ul>
 
 
-![my alternate text](https://andyandssj.github.io/lab4/assets/heying.jpg);
+![my alternate text](https://andyandssj.github.io/lab4/assets/heying.jpg)
