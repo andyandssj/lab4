@@ -61,3 +61,4 @@ categories: 科研
 <li>孙树杰. 一种刀具路径平滑压缩的方法.(专利号：ZL201711318711.3,申请（专利权）人：烟台大学)。
 </li>
 </ul>
+![rose garden](https://andyandssj.github.io/lab4/assets/rose garden1.jpg)
