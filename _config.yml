@@ -1,8 +1,8 @@
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
-baseurl: "/lab4"
-url: "http://andyandssj.github.io" 
+baseurl: "http://andyandssj.github.io/lab4"
+url: ""
 
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
