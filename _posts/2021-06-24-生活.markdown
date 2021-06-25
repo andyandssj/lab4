@@ -55,9 +55,10 @@ categories: Hobbies
 <img src="https://andyandssj.github.io/lab4/assets/15.JPG" alt="1" style="width:250px; "/>
 </p>
 
-<p align="center">
-<img src="https://andyandssj.github.io/lab4/assets/17.JPG" alt="1" style="width:1000px; "/>
-</p>
+
 
 <p align="center">
 <img src="https://andyandssj.github.io/lab4/assets/19.png" alt="1" style="width:1000px; "/>
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/17.JPG" alt="1" style="width:1000px; "/>
+</p>
