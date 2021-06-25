@@ -1,0 +1,22 @@
+---
+
+layout: post
+title:  "班主任，2021"
+date:   2021-06-24 19:03:55 -0700
+categories: 班主任 
+---
+<h6>  </h6>
+
+<h3>班级简介</h3>
+
+​       2021届
+
+<h3>同学名录</h3>
+
+<ul>
+<li>姓名 籍贯 </li>
+<li>姓名 籍贯 </li>
+</ul>
+
+![my alternate text](/assets/main.jpg);
+

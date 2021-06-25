@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: 孙树杰, 讲师
-  tagline: 邮箱：sunshujie@ytu.edu.cn
+  name: 孙树杰
+  tagline: 烟台大学机电汽车工程学院 讲师.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -26,9 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: 
-    github: 
-    linkedIn:
+    #twitter: samarsault
+    #github:  samarsault
+    #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -38,7 +38,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    #email: sunshujie@ytu.edu.cn
 
     # Mastodon instances
     # mastodon:
@@ -50,6 +50,7 @@ plainwhite:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
+
 # - about.md
 
 # Build settings
