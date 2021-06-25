@@ -64,6 +64,6 @@ categories: Hobbies
 
 </p>
 <p align="center">
-<img src="https://andyandssj.github.io/lab4/assets/17.jpg" alt="1" style="width:1000px; "/>
+<img src="https://andyandssj.github.io/lab4/assets/heying.jpg" alt="1" style="width:1000px; "/>
 
 </p>
