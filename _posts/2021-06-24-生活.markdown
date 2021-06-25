@@ -1,0 +1,70 @@
+---
+
+layout: post
+title:  "Hobbies"
+date:   2021-06-24 19:03:55 -0700
+categories: Hobbies
+---
+<h6>  </h6>
+
+<h3>Hobbies</h3>
+
+<ul>
+<li>Hiking</li>
+<li>Swimming</li>
+<li>Cycling</li>
+<li>Eating</li>
+<li>Sleeping</li>
+<li>Running</li>
+</ul>
+
+
+<h3>Photo album</h3>
+
+<p align="center">
+<img src="/assets/1.jpg" alt="1" style="width:250px; "/>
+&nbsp;&nbsp;&nbsp;
+<img src="/assets/2.jpg" alt="2" style="width:250px;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="/assets/3.jpg" alt="1" style="width:250px; "/>
+</p>
+
+<p align="center">
+<img src="/assets/4.jpg" alt="1" style="width:250px; "/>
+&nbsp;&nbsp;&nbsp;
+<img src="/assets/5.jpg" alt="2" style="width:250px;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="/assets/6.jpg" alt="1" style="width:250px; "/>
+</p>
+
+<p align="center">
+<img src="/assets/7.jpg" alt="1" style="width:370px; "/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/assets/9.jpg" alt="2" style="width:370px;"/>
+
+</p>
+
+<p align="center">
+<img src="/assets/11.jpg" alt="1" style="width:370px; "/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/assets/12.jpg" alt="2" style="width:370px;"/>
+</p>
+
+<p align="center">
+<img src="/assets/8.jpg" alt="1" style="width:250px; "/>
+&nbsp;&nbsp;&nbsp;
+<img src="/assets/13.jpg" alt="2" style="width:250px;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="/assets/15.jpg" alt="1" style="width:250px; "/>
+</p>
+
+
+
+<p align="center">
+<img src="/assets/19.png" alt="1" style="width:1000px; "/>
+
+</p>
+<p align="center">
+<img src="/assets/17.jpg" alt="1" style="width:1000px; "/>
+
+</p>
