@@ -19,3 +19,7 @@ categories: 班主任
 </ul>
 
 ![my alternate text](/assets/main.jpg);
+![my alternate text](../assets/main.jpg);
+![my alternate text](.../assets/main.jpg);
+![my alternate text](./assets/main.jpg);
+![my alternate text](./assets/main.jpg);
