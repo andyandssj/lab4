@@ -50,9 +50,10 @@ categories: 科研
 部分论文：
 
 <ul>
-<li>Shujie Sun, Yusuf Altintas. A G3 continuous tool path smoothing method for 5-axis CNC machining. CIRP Journal of Manufacturing Science and Technology, 2021, 32: 529-549.</li>
-<li>Shujie Sun, Dong Yu. A High-speed and Smooth Feedrate Planning Algorithm for Small Line Segments Based on B-spline Curves. Journal of Computers, 2019, 30 (4): 1-16.</li>
+<li>Shujie Sun*, Yusuf Altintas. A G3 continuous tool path smoothing method for 5-axis CNC machining. CIRP Journal of Manufacturing Science and Technology, 2021, 32: 529-549.</li>
+<li>Shujie Sun*, Dong Yu. A High-speed and Smooth Feedrate Planning Algorithm for Small Line Segments Based on B-spline Curves. Journal of Computers, 2019, 30 (4): 1-16.</li>
 </ul>
+
 
 部分专利：
 
