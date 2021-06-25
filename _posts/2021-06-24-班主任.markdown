@@ -3,7 +3,7 @@
 layout: post
 title:  "班主任，2021"
 date:   2021-06-24 19:03:55 -0700
-categories: 班主任 
+categories: 班主任
 ---
 <h6>  </h6>
 
@@ -18,5 +18,4 @@ categories: 班主任
 <li>姓名 籍贯 </li>
 </ul>
 
-![my alternate text](/assets/main.jpg);
-
+![my alternate text](assets/main.jpg);

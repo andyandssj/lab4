@@ -53,6 +53,14 @@ plainwhite:
 #header_pages:
 # - about.md
 
+
+permalink: /:categories/:year/:month/:day/:title:output_ext
+navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
+
 # Build settings
 theme: plainwhite
 
