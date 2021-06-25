@@ -22,4 +22,4 @@ categories: 班主任
 ![my alternate text](../assets/main.jpg);
 ![my alternate text](.../assets/main.jpg);
 ![my alternate text](./assets/main.jpg);
-![my alternate text](./assets/main.jpg);
+![my alternate text](url/baseurl/assets/main.jpg);
