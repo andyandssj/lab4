@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "班主任，2021"
+title:  "班主任"
 date:   2021-06-24 19:03:55 -0700
 categories: 班主任
 ---
