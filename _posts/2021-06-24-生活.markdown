@@ -19,6 +19,10 @@ categories: Hobbies
 <h3>Photo album</h3>
 
 <p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/19.png" alt="1" style="width:1000px; "/>
+</p>
+
+<p align="center">
 <img src="https://andyandssj.github.io/lab4/assets/1.JPG" alt="1" style="width:250px; "/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://andyandssj.github.io/lab4/assets/2.JPG" alt="2" style="width:250px;"/>
@@ -37,8 +41,8 @@ categories: Hobbies
 
 
 
-<p align="center">
-<img src="https://andyandssj.github.io/lab4/assets/19.png" alt="1" style="width:1000px; "/>
+
+
 <p align="center">
 <img src="https://andyandssj.github.io/lab4/assets/17.JPG" alt="1" style="width:1000px; "/>
 </p>
