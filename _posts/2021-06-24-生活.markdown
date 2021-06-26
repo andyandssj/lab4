@@ -30,9 +30,9 @@ categories: Hobbies
 <p align="center">
 <img src="https://andyandssj.github.io/lab4/assets/8.JPG" alt="1" style="width:250px; "/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://andyandssj.github.io/lab4/assets/5.JPG" alt="2" style="width:250px;"/>
+<img src="https://andyandssj.github.io/lab4/assets/13.JPG" alt="2" style="width:250px;"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://andyandssj.github.io/lab4/assets/15.JPG" alt="1" style="width:250px; "/>
+<img src="https://andyandssj.github.io/lab4/assets/5.JPG" alt="1" style="width:250px; "/>
 </p>
 
 
