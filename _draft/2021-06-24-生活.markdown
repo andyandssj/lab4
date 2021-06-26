@@ -1,0 +1,64 @@
+---
+
+layout: post
+title:  "Hobbies"
+date:   2021-06-24 19:03:55 -0700
+categories: Hobbies
+---
+<h6>  </h6>
+
+<h3>Hobbies</h3>
+
+<ul>
+<li>Hiking</li>
+<li>Swimming</li>
+<li>Cycling</li>
+</ul>
+
+
+<h3>Photo album</h3>
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/1.JPG" alt="1" style="width:250px; "/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/2.JPG" alt="2" style="width:250px;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/3.JPG" alt="1" style="width:250px; "/>
+</p>
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/4.JPG" alt="1" style="width:250px; "/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/5.JPG" alt="2" style="width:250px;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/6.JPG" alt="1" style="width:250px; "/>
+</p>
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/7.JPG" alt="1" style="width:370px; "/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/9.JPG" alt="2" style="width:370px;"/>
+
+</p>
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/11.JPG" alt="1" style="width:370px; "/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/12.JPG" alt="2" style="width:370px;"/>
+</p>
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/8.JPG" alt="1" style="width:250px; "/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/13.JPG" alt="2" style="width:250px;"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://andyandssj.github.io/lab4/assets/15.JPG" alt="1" style="width:250px; "/>
+</p>
+
+
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/19.png" alt="1" style="width:1000px; "/>
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/17.JPG" alt="1" style="width:1000px; "/>
+</p>

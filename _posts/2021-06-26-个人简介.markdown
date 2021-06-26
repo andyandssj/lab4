@@ -1,0 +1,75 @@
+---
+
+layout: post
+title:  "简历-孙树杰"
+date:   2021-06-24 19:03:55 -0700
+categories: 科研
+---
+<h6>  </h6>
+
+<h3>教育经历</h3>
+
+​		在本科与博士期间系统的学习了计算机科学与技术和计算机应用技术专业的相关知识，分别获得理学学士学位和工学博士学位（导师：中国科学院大学，林浒研究员）。
+
+<h3>工作经历</h3>
+
+<ul>
+<li>烟台大学机电汽车工程学院，讲师。</li>
+<li>先后在中国科学院沈阳计算技术研究所有限公司，高档数控国家工程研究中心（合作导师：于东研究员）、东北大学（合作导师：徐久强研究员）、University of British columbia （Supervised by Prof. Yusuf Altintas) 从事博士后研究工作。</li>
+</ul>
+<h3>研究方向</h3>
+
+<ul>
+<li>数控系统刀具路径平滑、速度规划</li>
+<li>CAD/CAM</li>
+</ul>
+<h3>主持的纵向科研项目</h3>
+
+在研项目
+
+<ul>
+<li> 2021.01.01-2023.12.31, 国家自然科学基金，“自由曲面高质量五轴数控加工刀具路径光顺和进给速度规划方法研究”，24万元，在研，主持。</li>
+</ul>
+
+
+结题项目
+
+<ul>
+<li>2018.11-2020.10，中国博士后科学基金会，面上资助（二等），面向高速加工的数控系统刀具路径动态平滑原理研究。</li>
+<li>2018.03-2020.12，山东省自然科学基金,“基于刀具轨迹智能优化的数控系统运动控制关键技术研究”。</li>
+<li>2017.07-2020.06，山东省高等学校科研计划，“基于非切削刀具轨迹优化的数控系统高速运动控制技术的研究与实现”。</li>
+</ul>
+<h3>参与的科研项目</h3>
+
+​         作为参与人，研究工作同时受到国家科技重大专项，国家重点基础研究发展计划、 NSERC- Pratt & Whitney Canada – Sandvik Coromant Industrial Research Chair Grant to The University of British Columbia、NSERC Canadian Network for Research and Innovation in Machining Technology Network Phrase 2 (CANRIMT2) 等项目的资助。
+
+<h3>近三年论文、专利等</h3>
+
+部分论文：
+
+<ul>
+<li>Shujie Sun*, Yusuf Altintas. A G3 continuous tool path smoothing method for 5-axis CNC machining. CIRP Journal of Manufacturing Science and Technology, 2021, 32: 529-549.</li>
+<li>Shujie Sun*, Dong Yu. A High-speed and Smooth Feedrate Planning Algorithm for Small Line Segments Based on B-spline Curves. Journal of Computers, 2019, 30 (4): 1-16.</li>
+<li>Shujie Sun*,   Dong Yu, Changhui Wang, Chuanning Xie. A smooth tool path generation and real-time interpolation algorithm based on B-spline curves. Advances in Mechanical Engineering, 2018, 10(1):1-14. </li>
+</ul>
+
+部分专利：
+
+<ul>
+<li>孙树杰. 一种适用于数控装置刀具的小线段的速度曲线规划方法. (专利号：ZL201810221847.0，申请（专利权）人：烟台大学)。</li>
+<li>孙树杰. 一种刀具路径平滑压缩的方法.(专利号：ZL201711318711.3,申请（专利权）人：烟台大学)。
+</li>
+</ul>
+<h3>说明</h3>
+
+朋友看了我的简介说，本科生通常只会数科研成果的数量，对科研成果的优劣基本没有区分能力，知道查看项目的档次和期刊的收录、分区的都不多。因此，我应该把发表的论文、专利、主持和参与的项目、获得的各种奖励以及与学术权威（俗称大牛）的科研合作经历全列出来，并贴出自己主持会议的照片以及自己与大牛的合影，宣传一下（吹嘘一波）自己的科研工作，便于招生。她当学生的时候就很吃这一套，也是这么被坑的，我仔细一想，我选导师的时候差不多也是这个样子。
+
+她的建议很好，有时间我会自我吹嘘一番的。。。
+
+只是在这之前我首先要说服自己，并做好心理建设。。。
+
+做个好人不容易啊。。。
+
+
+
+![rose garden](https://andyandssj.github.io/lab4/assets/rose garden1.jpg)

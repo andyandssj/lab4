@@ -1,0 +1,20 @@
+---
+
+layout: post
+title:  "研究生，2021"
+date:   2021-06-24 19:03:55 -0700
+categories: 科研
+---
+<h6>  </h6>
+
+<h3>在读研究生</h3>
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/15.JPG" alt="1" style="width:150px; "/>
+</p>
+
+​       简介：章涛，2021届研究生，***人，爱好：；
+
+<p align="center">
+<img src="https://andyandssj.github.io/lab4/assets/8.JPG" alt="1" style="width:150px; "/>
+</p>
