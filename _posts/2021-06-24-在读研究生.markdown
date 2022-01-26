@@ -12,7 +12,7 @@ categories: 科研
 <p align="center">
 <img src="https://andyandssj.github.io/lab4/assets/15.JPG" alt="1" style="width:150px; "/>
 </p>
-    章涛，**生，--人，本科毕业院校:**。
+    1章涛，**生，--人，本科毕业院校:**。
     爱好：
     联系方式：emial----;Tel:***
 <p align="center">
