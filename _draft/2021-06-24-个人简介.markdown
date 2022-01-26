@@ -15,7 +15,7 @@ categories: 科研
 
 <ul>
 <li>烟台大学机电汽车工程学院，讲师。</li>
-<li>先后在中国科学院沈阳计算技术研究所有限公司，高档数控国家工程研究中心（合作导师：于东研究员）、东北大学（合作导师：徐久强研究员）、University of British columbia （Supervised by Prof. Yusuf Altintas) 从事博士后研究工作。</li>
+<li>先后在中国科学院沈阳计算技术研究所有限公司，高档数控国家工程研究中心（合作导师：于东研究员）、东北大学（合作导师：徐久强研究员）、University of British columbia （Supervised by Prof. Yusuf Altintas，2019-2021) 从事博士后研究工作。</li>
 </ul>
 <h3>研究方向</h3>
 
@@ -28,6 +28,7 @@ categories: 科研
 在研项目
 
 <ul>
+<li> 2022.01.01-20234.12.31, 烟台市科技创新发展计划，“五轴数控加工刀具路径平滑插补方法的研究与实现”，*万元，在研，主持。</li>
 <li> 2021.01.01-2023.12.31, 国家自然科学基金，“自由曲面高质量五轴数控加工刀具路径光顺和进给速度规划方法研究”，24万元，在研，主持。</li>
 </ul>
 
@@ -73,4 +74,3 @@ categories: 科研
 
 
 ![rose garden](https://andyandssj.github.io/lab4/assets/rose garden1.jpg)
-
